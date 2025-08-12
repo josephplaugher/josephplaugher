@@ -1,9 +1,9 @@
 ## Hi, I'm Joe.
-### I am an independant software engineer. Interested in working with me? [Get in touch](https://josephplaugher.com)<br/>
+### I am an independant software engineer, with a degree in accounting.<br/>I'm available for part time, temporary and contract work. Interested in working with me? [Get in touch](https://josephplaugher.com)<br/>
 ## Portfolio
 #### Clark County Pride
 A non-profit organization which advocates for queer youth in rural Clark County, WA.
-I built and maintain their website.
+I built and maintain their website using NextJS with TypeScript.
 [Clark County Pride](https://clarkcountypride.com)
 
 #### Lift
@@ -11,7 +11,7 @@ A simple and effective app designed for people who strength train to track their
 [Lift](https://github.com/josephplaugher/lift)<br/> 
 [Lift API](https://github.com/josephplaugher/liftapi)
 
-### Work completed while with my preview employer
+### Work completed while with my previous employer
 #### Carbon Calculator 
 This is a carbon emission calculator designed to estimate the reduction in carbon emission by switching from trucking to CPKS's railroad system for your logistics needs.
 I was a major contributor to this application.<br/> 
@@ -32,7 +32,7 @@ Florida Department of Transportation, RCI Viewer.
 
 These are the public facing apps I built while with HDR. I also built a variety of non-public facing web and mobile apps using some combination of React and .NET.
 
-## 🛠 Skills
+## Skills
 
 **Frontend Development**
 - React (TypeScript): Component architecture, custom hooks, state management
@@ -59,3 +59,5 @@ These are the public facing apps I built while with HDR. I also built a variety 
 
 **Collaboration**
 - Partnering with UI/UX designers, database engineers, QA testers, and stakeholders to deliver cohesive, user-centric solutions
+
+Thanks for stopping by!
