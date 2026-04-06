@@ -12,6 +12,7 @@ A simple and effective app designed for people who strength train to track their
 [Lift API](https://github.com/josephplaugher/liftapi)
 
 ### Work completed while with my previous employer
+#### I build internal tooling for my current employeer, so I can't show you. However, here is some public-facing work from my previous company. 
 #### Carbon Calculator 
 This is a carbon emission calculator designed to estimate the reduction in carbon emission by switching from trucking to CPKS's railroad system for your logistics needs.
 I was a major contributor to this application. I built the majority of the front-end and a significant portion of the back-end.<br/>
@@ -24,9 +25,11 @@ I was a major contributor to this application. I built the majority of the front
 [Texas Water Board, Interactive State Flood Plan Viewer](https://texasstatefloodplan.org/overview)
 
 #### Roadway Characteristic Inventory Viewer
-This is a tool that provides a multi-dimmensional view of every roadway in the State of Florida. There is a an image at each milepoint (must be logged in to see the images), an interactive map, tabular data, and the core of the application - a straight-line diagram. A straight-line diagram provides highly detailed information about dozens of characteristics of a given roadway. When I left HDR, this application was in pilot testing. I will post a link to it when it is live and available to the public.
+This is a tool that provides a multi-dimmensional view of every roadway in the State of Florida. There is a an image at each milepoint (must be logged in to see the images), an interactive map, tabular data, and the core of the application - a straight-line diagram. A straight-line diagram provides highly detailed information about dozens of characteristics of a given roadway. When I left HDR, this application was in pilot testing. 
+**NOTE:** this app is not optimized for mobile. The client intended it for desktop use.<br/>
 I was a major contributor to this application. I built the majority of the front and back-end.<br/>
 Florida Department of Transportation, RCI Viewer.
+[RCI Viewer](https://rdvdev.fdot.gov/)
 
 These are the public facing apps I built while with HDR. I also built a variety of non-public facing web and mobile apps using some combination of React and .NET.
 
