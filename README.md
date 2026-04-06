@@ -1,5 +1,5 @@
 ## Hi, I'm Joe.
-### I am an independent software engineer, with a degree in accounting.<br/>I'm available for part time, temporary, short-term, long-term and contract work. Interested in working with me? [Get in touch](https://linkedin.com/in/josephplaugher)<br/>
+### I am a software engineer, with a degree in accounting.<br/>I'm available for part time, temporary, short-term, long-term and contract work. Interested in working with me? [Get in touch](https://linkedin.com/in/josephplaugher)<br/>
 ## Portfolio
 #### Clark County Pride
 A non-profit organization which advocates for queer youth in rural Clark County, WA.
